@@ -1,3 +1,6 @@
 added some content
 
 added some new content
+
+conflict added some content
+
